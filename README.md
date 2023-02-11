@@ -29,6 +29,8 @@ Use TailwindCss for :
 ### Built with
 
 - TailwindCss
+- HTML5
+- JavaScript
 
 #
 ## Author
